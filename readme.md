@@ -7,6 +7,8 @@ Market: SF
 
 # Where In The World Is Carmen Sandiego?
 
+![](http://i.giphy.com/13n8txR8c9UDHG.gif)
+
 ## Introduction
 
 > ***Note:*** _This can be a pair programming activity or done independently._
