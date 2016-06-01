@@ -1,18 +1,28 @@
-# Use SQL to find Carmen Sandiego
+<!--
+Creator: <Name>
+Market: SF
+-->
+
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+
+# Where In The World Is Carmen Sandiego?
 
 ## Introduction
 
 > ***Note:*** _This can be a pair programming activity or done independently._
 
-#### Where In The World Is Carmen Sandiego?
+#### Use SQL to find Carmen Sandiego
 
 We're going to use what we've learned already about searching with SQL commands, and apply it to chase down and capture an elusive and world-reknowned thief, Carmen Sandiego. Follow the clues, use the interweb - write down both the SQL commands /queries you used and your answers to the clues - and figure out where Carmen is headed, so we can catch her and bring her in.
 
 ## Exercise
 
-#### Requirements
+#### Starter code
 
 - Fork and clone the in the [starter-code](starter-code/world.sql)
+
+#### Requirements
+
 - Use the clues.sql file as your "answer sheet"
 - From the command line, let's create a new database called ```carmen``` and populate it with the SQL found in ```world.sql```
 
@@ -81,3 +91,12 @@ Use the clues.sql file to write in the SQL queries that correspond with each clu
 
 - [PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/)
 - [PostgreSQL official documentation](http://www.postgresql.org/docs/)
+
+### Self Evaluation
+
+During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
+
+- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
+- **Organization:** Do you thoughtfully implement best coding patterns and practices?
+- **Collaboration:** Do you make an effort solve problems and share your ideas with others?
+- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
